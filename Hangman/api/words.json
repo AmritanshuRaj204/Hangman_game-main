@@ -1,0 +1,53 @@
+[
+  {
+    "word": "javascript",
+    "hint": "A programming language",
+    "extraHint": "Used in web development"
+  },
+  {
+    "word": "python",
+    "hint": "A high-level programming language",
+    "extraHint": "Popular for data science"
+  },
+  {
+    "word": "java",
+    "hint": "A versatile programming language",
+    "extraHint": "Used in many enterprise applications"
+  },
+  {
+    "word": "ruby",
+    "hint": "A dynamic programming language",
+    "extraHint": "Known for its simplicity"
+  },
+  {
+    "word": "html",
+    "hint": "Markup language for the web",
+    "extraHint": "Defines the structure of web pages"
+  },
+  {
+    "word": "css",
+    "hint": "Style sheet language",
+    "extraHint": "Used for designing web pages"
+  },
+  {
+    "word": "csharp",
+    "hint": "A programming language developed by Microsoft",
+    "extraHint": "Often used in game development"
+  },
+  {
+    "word": "swift",
+    "hint": "A programming language for iOS",
+    "extraHint": "Developed by Apple"
+  },
+  {
+    "word": "typescript",
+    "hint": "A superset of JavaScript",
+    "extraHint": "Adds static types"
+  },
+  {
+    "word": "golang",
+    "hint": "A statically typed language",
+    "extraHint": "Created by Google"
+  }
+  
+]
