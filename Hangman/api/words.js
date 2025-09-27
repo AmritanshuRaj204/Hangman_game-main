@@ -13,19 +13,8 @@ function saveWordsToFile(words) {
     fs.writeFileSync(path.join(__dirname, 'words.json'), JSON.stringify(words, null, 2), 'utf-8');
 }
 
-module.exports = async (req, res) => {
-    if (req.method === 'GET' && req.url === '/api/word') {
-        const words = getWordsFromFile();
-        if (words.length === 0) {
-            res.statusCode = 404;
-            res.setHeader('Content-Type', 'application/json');
-            res.end(JSON.stringify({ error: 'No words found' }));
-            return;
-        }
-        const randomWord = words[Math.floor(Math.random() * words.length)];
-        res.setHeader('Content-Type', 'application/json');
-        res.end(JSON.stringify(randomWord));
-    } else if (req.method === 'POST' && req.url === '/api/words') {
+module.exports = (req, res) => {
+    if (req.method === 'POST') {
         let body = '';
         req.on('data', chunk => {
             body += chunk;
@@ -52,7 +41,8 @@ module.exports = async (req, res) => {
             }
         });
     } else {
-        res.statusCode = 404;
-        res.end('Not Found');
+        res.statusCode = 405;
+        res.setHeader('Allow', 'POST');
+        res.end('Method Not Allowed');
     }
 };

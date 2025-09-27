@@ -48,6 +48,1560 @@
     "word": "golang",
     "hint": "A statically typed language",
     "extraHint": "Created by Google"
+  },
+  {
+    "word": "football",
+    "hint": "A popular team sport",
+    "extraHint": "Played with a round ball"
+  },
+  {
+    "word": "basketball",
+    "hint": "A sport played on a court",
+    "extraHint": "Involves shooting a ball through a hoop"
+  },
+  {
+    "word": "cricket",
+    "hint": "A bat-and-ball game",
+    "extraHint": "Played between two teams of eleven players"
+  },
+  {
+    "word": "tennis",
+    "hint": "A racket sport",
+    "extraHint": "Can be played in singles or doubles"
+  },
+  {
+    "word": "hockey",
+    "hint": "A sport played on ice or field",
+    "extraHint": "Involves scoring goals with a puck or ball"
+  },
+  {
+    "word": "golf",
+    "hint": "A precision sport",
+    "extraHint": "Played on a course with holes"
+  },
+  {
+    "word": "running",
+    "hint": "A physical activity",
+    "extraHint": "Can be competitive or recreational"
+  },
+  {
+    "word": "swimming",
+    "hint": "An individual or team sport",
+    "extraHint": "Involves racing in water"
+  },
+  {
+    "word": "volleyball",
+    "hint": "A team sport played with a net",
+    "extraHint": "Involves hitting a ball over a net"
+  },
+  {
+    "word": "badminton",
+    "hint": "A racket sport with a shuttlecock",
+    "extraHint": "Can be played in singles or doubles"
+  },
+  {
+    "word": "inception",
+    "hint": "A mind-bending film",
+    "extraHint": "Directed by Christopher Nolan"
+  },
+  {
+    "word": "avatar",
+    "hint": "A sci-fi film",
+    "extraHint": "Set in the alien world of Pandora"
+  },
+  {
+    "word": "interstellar",
+    "hint": "A space exploration film",
+    "extraHint": "Explores black holes and time travel"
+  },
+  {
+    "word": "titanic",
+    "hint": "A tragic love story",
+    "extraHint": "Based on a historical maritime disaster"
+  },
+  {
+    "word": "matrix",
+    "hint": "A sci-fi action film",
+    "extraHint": "Involves simulated reality and cyberpunk themes"
+  },
+  {
+    "word": "gladiator",
+    "hint": "An epic historical drama",
+    "extraHint": "Set in ancient Rome"
+  },
+  {
+    "word": "parasite",
+    "hint": "A South Korean film",
+    "extraHint": "Explores class disparity"
+  },
+  {
+    "word": "joker",
+    "hint": "A psychological thriller",
+    "extraHint": "Based on a DC Comics character"
+  },
+  {
+    "word": "avengers",
+    "hint": "A superhero film series",
+    "extraHint": "Based on Marvel Comics"
+  },
+  {
+    "word": "frozen",
+    "hint": "A Disney animated film",
+    "extraHint": "Features a snow queen"
+  },
+  {
+    "word": "chess",
+    "hint": "A strategy board game",
+    "extraHint": "Played on an 8x8 grid"
+  },
+  {
+    "word": "poker",
+    "hint": "A popular card game",
+    "extraHint": "Involves betting and bluffing"
+  },
+  {
+    "word": "scrabble",
+    "hint": "A word game played on a board",
+    "extraHint": "Involves creating words from letter tiles"
+  },
+  {
+    "word": "monopoly",
+    "hint": "A board game about buying properties",
+    "extraHint": "The goal is to bankrupt opponents"
+  },
+  {
+    "word": "checkers",
+    "hint": "A strategy board game",
+    "extraHint": "Played on a square board"
+  },
+  {
+    "word": "battleship",
+    "hint": "A guessing game played on a grid",
+    "extraHint": "Players try to sink each other's ships"
+  },
+  {
+    "word": "backgammon",
+    "hint": "A board game involving strategy and luck",
+    "extraHint": "Players move pieces based on dice rolls"
+  },
+  {
+    "word": "mahjong",
+    "hint": "A tile-based game",
+    "extraHint": "Originally developed in China"
+  },
+  {
+    "word": "dominoes",
+    "hint": "A game played with rectangular tiles",
+    "extraHint": "Players match the ends of tiles"
+  },
+  {
+    "word": "rummy",
+    "hint": "A group of matching-card games",
+    "extraHint": "Players try to form sets or runs"
+  },
+  {
+    "word": "beach",
+    "hint": "A sandy shore by the sea",
+    "extraHint": "Popular for sunbathing"
+  },
+  {
+    "word": "mountain",
+    "hint": "A large natural elevation of the earth's surface",
+    "extraHint": "Often popular for hiking"
+  },
+  {
+    "word": "river",
+    "hint": "A large natural stream of water",
+    "extraHint": "Flows into a sea or ocean"
+  },
+  {
+    "word": "desert",
+    "hint": "A barren area of land",
+    "extraHint": "Characterized by little rainfall"
+  },
+  {
+    "word": "forest",
+    "hint": "A large area covered chiefly with trees",
+    "extraHint": "Home to diverse wildlife"
+  },
+  {
+    "word": "island",
+    "hint": "A piece of land surrounded by water",
+    "extraHint": "Often tropical or remote"
+  },
+  {
+    "word": "ocean",
+    "hint": "A vast body of salt water",
+    "extraHint": "Covers about 71% of the Earth's surface"
+  },
+  {
+    "word": "volcano",
+    "hint": "An opening in the Earth's crust",
+    "extraHint": "Can erupt with lava"
+  },
+  {
+    "word": "glacier",
+    "hint": "A slowly moving mass of ice",
+    "extraHint": "Found in polar regions"
+  },
+  {
+    "word": "canyon",
+    "hint": "A deep gorge, typically one with a river flowing through it",
+    "extraHint": "Formed by erosion"
+  },
+  {
+    "word": "apple",
+    "hint": "A popular fruit",
+    "extraHint": "Often red, green, or yellow"
+  },
+  {
+    "word": "banana",
+    "hint": "A long yellow fruit",
+    "extraHint": "Monkeys often eat this"
+  },
+  {
+    "word": "carrot",
+    "hint": "An orange root vegetable",
+    "extraHint": "Bunny rabbits love them"
+  },
+  {
+    "word": "broccoli",
+    "hint": "A green vegetable that looks like a tree",
+    "extraHint": "Rich in vitamins"
+  },
+  {
+    "word": "grape",
+    "hint": "A small round fruit",
+    "extraHint": "Can be fermented to make wine"
+  },
+  {
+    "word": "potato",
+    "hint": "A starchy tuber",
+    "extraHint": "Commonly used to make fries"
+  },
+  {
+    "word": "onion",
+    "hint": "A bulb vegetable",
+    "extraHint": "Can make you cry when cut"
+  },
+  {
+    "word": "tomato",
+    "hint": "A red fruit often mistaken for a vegetable",
+    "extraHint": "Used in salads and sauces"
+  },
+  {
+    "word": "cucumber",
+    "hint": "A long green vegetable",
+    "extraHint": "Often found in salads"
+  },
+  {
+    "word": "spinach",
+    "hint": "A leafy green vegetable",
+    "extraHint": "Popeye's favorite"
+  },
+  {
+    "word": "paris",
+    "hint": "The capital city of France",
+    "extraHint": "Known as the City of Lights"
+  },
+  {
+    "word": "tokyo",
+    "hint": "The capital of Japan",
+    "extraHint": "Famous for its skyscrapers"
+  },
+  {
+    "word": "newyork",
+    "hint": "A major city in the USA",
+    "extraHint": "Known as the Big Apple"
+  },
+  {
+    "word": "london",
+    "hint": "The capital city of the United Kingdom",
+    "extraHint": "Home to the British Parliament"
+  },
+  {
+    "word": "berlin",
+    "hint": "The capital city of Germany",
+    "extraHint": "Known for its history and culture"
+  },
+  {
+    "word": "sydney",
+    "hint": "A major city in Australia",
+    "extraHint": "Famous for its Opera House"
+  },
+  {
+    "word": "mumbai",
+    "hint": "The financial capital of India",
+    "extraHint": "Known for Bollywood"
+  },
+  {
+    "word": "rio",
+    "hint": "Famous for its Carnival",
+    "extraHint": "Located in Brazil"
+  },
+  {
+    "word": "cairo",
+    "hint": "The capital city of Egypt",
+    "extraHint": "Home to the Great Pyramids"
+  },
+  {
+    "word": "moscow",
+    "hint": "The capital city of Russia",
+    "extraHint": "Known for the Kremlin"
+  },
+  {
+    "word": "caterpillar",
+    "hint": "An insect larva",
+    "extraHint": "Transforms into a butterfly"
+  },
+  {
+    "word": "elephant",
+    "hint": "The largest land animal",
+    "extraHint": "Known for its trunk"
+  },
+  {
+    "word": "kangaroo",
+    "hint": "An animal from Australia",
+    "extraHint": "Known for hopping and carrying young in pouches"
+  },
+  {
+    "word": "dolphin",
+    "hint": "A highly intelligent marine mammal",
+    "extraHint": "Known for its playful behavior"
+  },
+  {
+    "word": "giraffe",
+    "hint": "The tallest land animal",
+    "extraHint": "Known for its long neck"
+  },
+  {
+    "word": "octopus",
+    "hint": "A sea creature with eight arms",
+    "extraHint": "Known for its intelligence"
+  },
+  {
+    "word": "penguin",
+    "hint": "A flightless bird",
+    "extraHint": "Found in the Southern Hemisphere"
+  },
+  {
+    "word": "hippopotamus",
+    "hint": "A large, mostly herbivorous mammal",
+    "extraHint": "Spends most of its time in water"
+  },
+  {
+    "word": "falcon",
+    "hint": "A bird of prey",
+    "extraHint": "Known for its speed"
+  },
+  {
+    "word": "rhinoceros",
+    "hint": "A large herbivore with one or two horns",
+    "extraHint": "Known for its thick skin"
+  },
+  {
+    "word": "computer",
+    "hint": "An electronic device for processing data",
+    "extraHint": "Can perform complex calculations"
+  },
+  {
+    "word": "microchip",
+    "hint": "A small semiconductor used in electronics",
+    "extraHint": "Essential for computer function"
+  },
+  {
+    "word": "robot",
+    "hint": "A machine capable of carrying out complex tasks",
+    "extraHint": "Often used in manufacturing"
+  },
+  {
+    "word": "internet",
+    "hint": "A global network of interconnected computers",
+    "extraHint": "Used for communication and information"
+  },
+  {
+    "word": "smartphone",
+    "hint": "A handheld personal computer",
+    "extraHint": "Combines mobile phone and computing functions"
+  },
+  {
+    "word": "artificial intelligence",
+    "hint": "The simulation of human intelligence by machines",
+    "extraHint": "Involves machine learning"
+  },
+  {
+    "word": "blockchain",
+    "hint": "A decentralized digital ledger technology",
+    "extraHint": "Used for cryptocurrencies"
+  },
+  {
+    "word": "database",
+    "hint": "A structured set of data held in a computer",
+    "extraHint": "Used for storing and retrieving information"
+  },
+  {
+    "word": "algorithm",
+    "hint": "A process or set of rules for solving a problem",
+    "extraHint": "Commonly used in programming"
+  },
+  {
+    "word": "encryption",
+    "hint": "The process of encoding information",
+    "extraHint": "Used for securing data"
+  },
+  {
+    "word": "shakespeare",
+    "hint": "A famous English playwright",
+    "extraHint": "Wrote 'Romeo and Juliet'"
+  },
+  {
+    "word": "tolkien",
+    "hint": "Author of 'The Lord of the Rings'",
+    "extraHint": "Known for his fantasy literature"
+  },
+  {
+    "word": "hemingway",
+    "hint": "A famous American novelist",
+    "extraHint": "Known for 'The Old Man and the Sea'"
+  },
+  {
+    "word": "austen",
+    "hint": "Author of 'Pride and Prejudice'",
+    "extraHint": "Known for her romantic fiction"
+  },
+  {
+    "word": "orwell",
+    "hint": "Author of '1984'",
+    "extraHint": "Known for his dystopian themes"
+  },
+  {
+    "word": "bronte",
+    "hint": "Famous sisters who wrote novels",
+    "extraHint": "Known for 'Wuthering Heights'"
+  },
+  {
+    "word": "dickens",
+    "hint": "A famous English novelist",
+    "extraHint": "Wrote 'A Tale of Two Cities'"
+  },
+  {
+    "word": "rowling",
+    "hint": "Author of the 'Harry Potter' series",
+    "extraHint": "Known for her fantasy novels"
+  },
+  {
+    "word": "martin",
+    "hint": "Author of 'A Song of Ice and Fire'",
+    "extraHint": "Known for his epic fantasy series"
+  },
+  {
+    "word": "salinger",
+    "hint": "Author of 'The Catcher in the Rye'",
+    "extraHint": "Known for his coming-of-age themes"
+  },
+  {
+    "word": "tulip",
+    "hint": "A bulbous spring-flowering plant",
+    "extraHint": "Often associated with the Netherlands"
+  },
+  {
+    "word": "rose",
+    "hint": "A type of flowering shrub",
+    "extraHint": "Symbol of love"
+  },
+  {
+    "word": "sunflower",
+    "hint": "A tall plant with a large yellow flower",
+    "extraHint": "Follows the sun"
+  },
+  {
+    "word": "cactus",
+    "hint": "A plant adapted to desert environments",
+    "extraHint": "Known for its spines"
+  },
+  {
+    "word": "oak",
+    "hint": "A type of tree known for its strength",
+    "extraHint": "Produces acorns"
+  },
+  {
+    "word": "maple",
+    "hint": "A tree known for its beautiful fall foliage",
+    "extraHint": "Produces maple syrup"
+  },
+  {
+    "word": "palm",
+    "hint": "A tree often found in tropical climates",
+    "extraHint": "Has large, fan-shaped leaves"
+  },
+  {
+    "word": "birch",
+    "hint": "A tree with white bark",
+    "extraHint": "Often found in northern climates"
+  },
+  {
+    "word": "cedar",
+    "hint": "A type of coniferous tree",
+    "extraHint": "Known for its aromatic wood"
+  },
+  {
+    "word": "willow",
+    "hint": "A tree known for its drooping branches",
+    "extraHint": "Often found near water"
+  },
+  {
+    "word": "da Vinci",
+    "hint": "A Renaissance artist and inventor",
+    "extraHint": "Known for 'Mona Lisa'"
+  },
+  {
+    "word": "picasso",
+    "hint": "A famous Spanish painter",
+    "extraHint": "Co-founder of the Cubist movement"
+  },
+  {
+    "word": "van Gogh",
+    "hint": "A Dutch Post-Impressionist painter",
+    "extraHint": "Known for 'Starry Night'"
+  },
+  {
+    "word": "monet",
+    "hint": "A French painter known for Impressionism",
+    "extraHint": "Famous for 'Water Lilies'"
+  },
+  {
+    "word": "rembrandt",
+    "hint": "A Dutch painter known for his portraits",
+    "extraHint": "Famous for 'The Night Watch'"
+  },
+  {
+    "word": "dali",
+    "hint": "A surrealist painter",
+    "extraHint": "Known for his dream-like imagery"
+  },
+  {
+    "word": "frida",
+    "hint": "A Mexican painter known for her self-portraits",
+    "extraHint": "Explored identity and postcolonialism"
+  },
+  {
+    "word": "warhol",
+    "hint": "A leading figure in the visual art movement",
+    "extraHint": "Known for his works on consumer culture"
+  },
+  {
+    "word": "hockney",
+    "hint": "A British painter known for his colorful works",
+    "extraHint": "Famous for his pool paintings"
+  },
+  {
+    "word": "pollock",
+    "hint": "An American painter known for abstract expressionism",
+    "extraHint": "Famous for his drip paintings"
+  },
+  {
+    "word": "mercedes",
+    "hint": "A luxury vehicle manufacturer",
+    "extraHint": "Known for its high-performance cars"
+  },
+  {
+    "word": "ferrari",
+    "hint": "An Italian luxury sports car manufacturer",
+    "extraHint": "Famous for its red cars"
+  },
+  {
+    "word": "tesla",
+    "hint": "An electric vehicle manufacturer",
+    "extraHint": "Founded by Elon Musk"
+  },
+  {
+    "word": "toyota",
+    "hint": "A major automobile manufacturer",
+    "extraHint": "Known for its reliable vehicles"
+  },
+  {
+    "word": "bmw",
+    "hint": "A German luxury automobile manufacturer",
+    "extraHint": "Known for its performance cars"
+  },
+  {
+    "word": "audi",
+    "hint": "A German automobile manufacturer",
+    "extraHint": "Known for its technology and luxury"
+  },
+  {
+    "word": "ford",
+    "hint": "An American automobile manufacturer",
+    "extraHint": "Known for the Model T"
+  },
+  {
+    "word": "honda",
+    "hint": "A Japanese automobile manufacturer",
+    "extraHint": "Known for its fuel-efficient vehicles"
+  },
+  {
+    "word": "volkswagen",
+    "hint": "A German car manufacturer",
+    "extraHint": "Known for the Beetle"
+  },
+  {
+    "word": "nissan",
+    "hint": "A Japanese automobile manufacturer",
+    "extraHint": "Known for its electric vehicles"
+  },
+  {
+    "word": "sherlock",
+    "hint": "A fictional detective created by Arthur Conan Doyle",
+    "extraHint": "Known for his keen observation"
+  },
+  {
+    "word": "huck",
+    "hint": "Main character in 'Adventures of Huckleberry Finn'",
+    "extraHint": "Written by Mark Twain"
+  },
+  {
+    "word": "gatsby",
+    "hint": "Main character in 'The Great Gatsby'",
+    "extraHint": "Written by F. Scott Fitzgerald"
+  },
+  {
+    "word": "frankenstein",
+    "hint": "A novel about a scientist and his creature",
+    "extraHint": "Written by Mary Shelley"
+  },
+  {
+    "word": "moby",
+    "hint": "The title character in a novel by Herman Melville",
+    "extraHint": "A great whale"
+  },
+  {
+    "word": "odyssey",
+    "hint": "An epic poem attributed to Homer",
+    "extraHint": "Tells the story of Odysseus"
+  },
+  {
+    "word": "dante",
+    "hint": "Author of 'The Divine Comedy'",
+    "extraHint": "Known for his journey through the afterlife"
+  },
+  {
+    "word": "dracula",
+    "hint": "A novel about a vampire",
+    "extraHint": "Written by Bram Stoker"
+  },
+  {
+    "word": "alice",
+    "hint": "Main character in 'Alice's Adventures in Wonderland'",
+    "extraHint": "Written by Lewis Carroll"
+  },
+  {
+    "word": "narnia",
+    "hint": "A fictional world in a series of novels",
+    "extraHint": "Created by C.S. Lewis"
+  },
+  {
+    "word": "piano",
+    "hint": "A musical instrument with keys",
+    "extraHint": "Commonly used in classical music"
+  },
+  {
+    "word": "guitar",
+    "hint": "A string instrument played with fingers or a pick",
+    "extraHint": "Popular in rock music"
+  },
+  {
+    "word": "violin",
+    "hint": "A string instrument played with a bow",
+    "extraHint": "Known for its high pitch"
+  },
+  {
+    "word": "drums",
+    "hint": "A percussion instrument",
+    "extraHint": "Commonly used in bands"
+  },
+  {
+    "word": "trumpet",
+    "hint": "A brass musical instrument",
+    "extraHint": "Known for its bright sound"
+  },
+  {
+    "word": "flute",
+    "hint": "A woodwind instrument played by blowing air",
+    "extraHint": "Known for its soft, airy sound"
+  },
+  {
+    "word": "saxophone",
+    "hint": "A brass instrument with a single-reed mouthpiece",
+    "extraHint": "Popular in jazz music"
+  },
+  {
+    "word": "accordion",
+    "hint": "A musical instrument played by compressing and expanding a bellows",
+    "extraHint": "Common in folk music"
+  },
+  {
+    "word": "banjo",
+    "hint": "A stringed instrument with a circular body",
+    "extraHint": "Common in American folk music"
+  },
+  {
+    "word": "harp",
+    "hint": "A string instrument played by plucking strings",
+    "extraHint": "Often used in orchestras"
+  },
+  {
+    "word": "harvard",
+    "hint": "A prestigious university in the USA",
+    "extraHint": "Known for its law and business schools"
+  },
+  {
+    "word": "oxford",
+    "hint": "An ancient university in the UK",
+    "extraHint": "Known for its history and architecture"
+  },
+  {
+    "word": "cambridge",
+    "hint": "Another prestigious university in the UK",
+    "extraHint": "Known for its science programs"
+  },
+  {
+    "word": "stanford",
+    "hint": "A leading research university in California",
+    "extraHint": "Known for its technology and innovation"
+  },
+  {
+    "word": "mit",
+    "hint": "Massachusetts Institute of Technology",
+    "extraHint": "Known for engineering and technology"
+  },
+  {
+    "word": "yale",
+    "hint": "A private Ivy League university",
+    "extraHint": "Known for its drama and music programs"
+  },
+  {
+    "word": "princeton",
+    "hint": "An Ivy League university in New Jersey",
+    "extraHint": "Known for its academic rigor"
+  },
+  {
+    "word": "berkeley",
+    "hint": "A public research university in California",
+    "extraHint": "Known for its liberal arts programs"
+  },
+  {
+    "word": "columbia",
+    "hint": "An Ivy League university in New York City",
+    "extraHint": "Known for its journalism school"
+  },
+  {
+    "word": "duke",
+    "hint": "A private university in North Carolina",
+    "extraHint": "Known for its basketball program"
+  },
+  {
+    "word": "mercury",
+    "hint": "The smallest planet in the solar system",
+    "extraHint": "Closest to the Sun"
+  },
+  {
+    "word": "venus",
+    "hint": "The second planet from the Sun",
+    "extraHint": "Known as Earth's sister planet"
+  },
+  {
+    "word": "earth",
+    "hint": "The third planet from the Sun",
+    "extraHint": "Home to humanity"
+  },
+  {
+    "word": "mars",
+    "hint": "The fourth planet from the Sun",
+    "extraHint": "Known as the Red Planet"
+  },
+  {
+    "word": "jupiter",
+    "hint": "The largest planet in the solar system",
+    "extraHint": "Known for its Great Red Spot"
+  },
+  {
+    "word": "saturn",
+    "hint": "Famous for its rings",
+    "extraHint": "A gas giant planet"
+  },
+  {
+    "word": "uranus",
+    "hint": "The seventh planet from the Sun",
+    "extraHint": "Known for its blue color"
+  },
+  {
+    "word": "neptune",
+    "hint": "The eighth planet from the Sun",
+    "extraHint": "Known for its strong winds"
+  },
+  {
+    "word": "pluto",
+    "hint": "Formerly considered the ninth planet",
+    "extraHint": "Now classified as a dwarf planet"
+  },
+  {
+    "word": "blackhole",
+    "hint": "A region of space where gravity is so strong",
+    "extraHint": "Not even light can escape from it"
+  },
+  {
+    "word": "soccer",
+    "hint": "A popular team sport played worldwide",
+    "extraHint": "Known as football in many countries"
+  },
+  {
+    "word": "basketball",
+    "hint": "A sport played with a hoop and a ball",
+    "extraHint": "Popular in schools and colleges"
+  },
+  {
+    "word": "tennis",
+    "hint": "A racket sport played on a court",
+    "extraHint": "Can be played in singles or doubles"
+  },
+  {
+    "word": "cricket",
+    "hint": "A bat-and-ball game popular in Commonwealth countries",
+    "extraHint": "Played with two teams of eleven players"
+  },
+  {
+    "word": "baseball",
+    "hint": "A bat-and-ball game played between two teams",
+    "extraHint": "Commonly associated with America"
+  },
+  {
+    "word": "golf",
+    "hint": "A sport played on a course with holes",
+    "extraHint": "Players use clubs to hit balls into holes"
+  },
+  {
+    "word": "swimming",
+    "hint": "A water-based activity",
+    "extraHint": "Can be competitive or recreational"
+  },
+  {
+    "word": "boxing",
+    "hint": "A combat sport where two opponents fight",
+    "extraHint": "Involves punches and gloves"
+  },
+  {
+    "word": "running",
+    "hint": "A form of exercise and competition",
+    "extraHint": "Can be done on tracks or trails"
+  },
+  {
+    "word": "hiking",
+    "hint": "A long walk, especially in the countryside",
+    "extraHint": "Often on trails or mountains"
+  },
+  {
+    "word": "chocolate",
+    "hint": "A sweet food made from cacao",
+    "extraHint": "Popular as a dessert or candy"
+  },
+  {
+    "word": "pizza",
+    "hint": "A dish made with a base of dough, sauce, and toppings",
+    "extraHint": "Originated in Italy"
+  },
+  {
+    "word": "sushi",
+    "hint": "A Japanese dish of vinegared rice",
+    "extraHint": "Often includes raw fish and vegetables"
+  },
+  {
+    "word": "hamburger",
+    "hint": "A sandwich consisting of a cooked patty of ground meat",
+    "extraHint": "Often served with lettuce and tomato"
+  },
+  {
+    "word": "pasta",
+    "hint": "A type of Italian food made from wheat flour",
+    "extraHint": "Often served with sauces"
+  },
+  {
+    "word": "icecream",
+    "hint": "A sweet frozen food made from cream",
+    "extraHint": "Popular dessert in many flavors"
+  },
+  {
+    "word": "salad",
+    "hint": "A dish consisting of mixed vegetables",
+    "extraHint": "Often served cold"
+  },
+  {
+    "word": "soup",
+    "hint": "A liquid dish typically made by boiling meat or vegetables",
+    "extraHint": "Can be served hot or cold"
+  },
+  {
+    "word": "bread",
+    "hint": "A staple food made from flour",
+    "extraHint": "Often baked and used in sandwiches"
+  },
+  {
+    "word": "cookies",
+    "hint": "Small, sweet baked treats",
+    "extraHint": "Commonly made with chocolate chips"
+  },
+  {
+    "word": "hollywood",
+    "hint": "The center of the American film industry",
+    "extraHint": "Located in Los Angeles"
+  },
+  {
+    "word": "broadway",
+    "hint": "Famous street known for theaters",
+    "extraHint": "Located in New York City"
+  },
+  {
+    "word": "bollywood",
+    "hint": "The Hindi-language film industry",
+    "extraHint": "Based in Mumbai, India"
+  },
+  {
+    "word": "television",
+    "hint": "A system for transmitting visual images",
+    "extraHint": "Commonly used for entertainment"
+  },
+  {
+    "word": "streaming",
+    "hint": "The transmission of data over the internet",
+    "extraHint": "Used for movies and music"
+  },
+  {
+    "word": "podcast",
+    "hint": "A digital audio file made available on the internet",
+    "extraHint": "Usually part of a series"
+  },
+  {
+    "word": "documentary",
+    "hint": "A non-fiction film or television program",
+    "extraHint": "Often about real-life events"
+  },
+  {
+    "word": "animation",
+    "hint": "The process of creating moving images from drawings",
+    "extraHint": "Commonly used in movies and shows"
+  },
+  {
+    "word": "cinema",
+    "hint": "The art of making films",
+    "extraHint": "Includes various genres"
+  },
+  {
+    "word": "theater",
+    "hint": "A place where live performances are held",
+    "extraHint": "Often includes plays and musicals"
+  },
+  {
+    "word": "python",
+    "hint": "A high-level programming language",
+    "extraHint": "Popular for data science and web development"
+  },
+  {
+    "word": "javascript",
+    "hint": "A programming language commonly used in web development",
+    "extraHint": "Often used for interactive features"
+  },
+  {
+    "word": "java",
+    "hint": "A widely-used programming language",
+    "extraHint": "Commonly used for enterprise applications"
+  },
+  {
+    "word": "csharp",
+    "hint": "A programming language developed by Microsoft",
+    "extraHint": "Used for Windows applications"
+  },
+  {
+    "word": "ruby",
+    "hint": "A dynamic programming language",
+    "extraHint": "Often used for web development"
+  },
+  {
+    "word": "swift",
+    "hint": "A programming language developed by Apple",
+    "extraHint": "Used for iOS and macOS applications"
+  },
+  {
+    "word": "kotlin",
+    "hint": "A modern programming language for Android development",
+    "extraHint": "Compatible with Java"
+  },
+  {
+    "word": "rust",
+    "hint": "A systems programming language",
+    "extraHint": "Known for safety and performance"
+  },
+  {
+    "word": "typescript",
+    "hint": "A superset of JavaScript",
+    "extraHint": "Adds static typing to JavaScript"
+  },
+  {
+    "word": "go",
+    "hint": "A programming language designed for simplicity and efficiency",
+    "extraHint": "Often used for cloud services"
+  },
+  {
+    "word": "keyboard",
+    "hint": "An input device used for typing",
+    "extraHint": "Has keys for letters and symbols"
+  },
+  {
+    "word": "monitor",
+    "hint": "Displays visual output",
+    "extraHint": "Also called a screen"
+  },
+  {
+    "word": "elephant",
+    "hint": "A large mammal with a trunk",
+    "extraHint": "Known for its tusks and memory"
+  },
+  {
+    "word": "giraffe",
+    "hint": "Tall animal with a long neck",
+    "extraHint": "Often seen in African savannas"
+  },
+  {
+    "word": "bicycle",
+    "hint": "A two-wheeled vehicle",
+    "extraHint": "Powered by pedaling"
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain that can erupt",
+    "extraHint": "Spews lava and ash"
+  },
+  {
+    "word": "pyramid",
+    "hint": "An ancient triangular structure",
+    "extraHint": "Built by the Egyptians"
+  },
+  {
+    "word": "kangaroo",
+    "hint": "A marsupial that hops",
+    "extraHint": "Native to Australia"
+  },
+  {
+    "word": "microscope",
+    "hint": "A device for viewing tiny objects",
+    "extraHint": "Often used in laboratories"
+  },
+  {
+    "word": "satellite",
+    "hint": "Orbits the Earth",
+    "extraHint": "Used for communication and weather forecasting"
+  },
+  {
+    "word": "calendar",
+    "hint": "Tracks dates and events",
+    "extraHint": "Can be digital or paper"
+  },
+  {
+    "word": "astronaut",
+    "hint": "A person who travels in space",
+    "extraHint": "Works aboard spacecraft"
+  },
+  {
+    "word": "alligator",
+    "hint": "A reptile found in swamps",
+    "extraHint": "Similar to a crocodile"
+  },
+  {
+    "word": "blueprint",
+    "hint": "A detailed architectural plan",
+    "extraHint": "Used by engineers and builders"
+  },
+  {
+    "word": "rainbow",
+    "hint": "A colorful arc in the sky",
+    "extraHint": "Appears after rain"
+  },
+  {
+    "word": "oxygen",
+    "hint": "Essential gas for breathing",
+    "extraHint": "Makes up about 21% of Earth's atmosphere"
+  },
+  {
+    "word": "submarine",
+    "hint": "A vessel that operates underwater",
+    "extraHint": "Used in naval warfare"
+  },
+  {
+    "word": "avalanche",
+    "hint": "A large mass of snow sliding down a mountain",
+    "extraHint": "Can cause destruction in cold regions"
+  },
+  {
+    "word": "parachute",
+    "hint": "Used to slow a fall from high altitudes",
+    "extraHint": "Often deployed by skydivers"
+  },
+  {
+    "word": "compass",
+    "hint": "A tool that shows direction",
+    "extraHint": "Points towards the magnetic North"
+  },
+  {
+    "word": "tornado",
+    "hint": "A spinning column of air",
+    "extraHint": "Can cause severe damage on land"
+  },
+  {
+    "word": "quarantine",
+    "hint": "Isolation to prevent disease spread",
+    "extraHint": "Became widely known during pandemics"
+  },
+  {
+    "word": "dictionary",
+    "hint": "A book of words and their meanings",
+    "extraHint": "Used to understand definitions"
+  },
+  {
+    "word": "orchestra",
+    "hint": "A group of musicians playing together",
+    "extraHint": "Includes strings, woodwinds, and brass"
+  },
+  {
+    "word": "asteroid",
+    "hint": "A rocky object orbiting the sun",
+    "extraHint": "Smaller than a planet but larger than a meteoroid"
+  },
+  {
+    "word": "boomerang",
+    "hint": "A tool that returns to the thrower",
+    "extraHint": "Originally used by Indigenous Australians"
+  },
+  {
+    "word": "stethoscope",
+    "hint": "A medical instrument used to listen to the heart",
+    "extraHint": "Commonly worn around a doctor's neck"
+  },
+  {
+    "word": "thermometer",
+    "hint": "Used to measure temperature",
+    "extraHint": "Can be digital or mercury-based"
+  },
+  {
+    "word": "algorithm",
+    "hint": "A step-by-step procedure for calculations",
+    "extraHint": "Often used in computer science"
+  },
+  {
+    "word": "penguin",
+    "hint": "A flightless bird that lives in cold regions",
+    "extraHint": "Known for its black and white feathers"
+  },
+  {
+    "word": "telescope",
+    "hint": "Used to observe distant objects in space",
+    "extraHint": "Astronomers often use it"
+  },
+  {
+    "word": "tsunami",
+    "hint": "A large ocean wave caused by seismic activity",
+    "extraHint": "Can cause massive flooding"
+  },
+  {
+    "word": "vacuum",
+    "hint": "A space completely devoid of matter",
+    "extraHint": "Used for cleaning in household appliances"
+  },
+  {
+    "word": "ecosystem",
+    "hint": "A community of organisms and their environment",
+    "extraHint": "Includes plants, animals, and microorganisms"
+  },
+  {
+    "word": "archaeologist",
+    "hint": "Studies human history through excavation",
+    "extraHint": "Works on ancient ruins and artifacts"
+  },
+  {
+    "word": "encyclopedia",
+    "hint": "A book or set of books containing knowledge",
+    "extraHint": "Often used for research purposes"
+  },
+  {
+    "word": "accordion",
+    "hint": "A musical instrument with bellows and keys",
+    "extraHint": "Popular in folk and polka music"
+  },
+  {
+    "word": "jellyfish",
+    "hint": "A sea creature with a gelatinous body and tentacles",
+    "extraHint": "Can sting when touched"
+  },
+  {
+    "word": "barracuda",
+    "hint": "A fierce predatory fish",
+    "extraHint": "Found in tropical oceans"
+  },
+  {
+    "word": "chameleon",
+    "hint": "A lizard that changes color to blend in",
+    "extraHint": "Has a long tongue to catch insects"
+  },
+  {
+    "word": "hologram",
+    "hint": "A three-dimensional image created by light",
+    "extraHint": "Often used in futuristic displays"
+  },
+  {
+    "word": "waterfall",
+    "hint": "A natural flow of water from a height",
+    "extraHint": "Popular in nature tourism"
+  },
+  {
+    "word": "typewriter",
+    "hint": "A mechanical device used for writing text",
+    "extraHint": "Was widely used before computers"
+  },
+  {
+    "word": "trampoline",
+    "hint": "A device for jumping on, used for fun or sport",
+    "extraHint": "Consists of a taut fabric stretched over a frame"
+  },
+  {
+    "word": "eclipse",
+    "hint": "Occurs when one celestial body moves into the shadow of another",
+    "extraHint": "Can be solar or lunar"
+  },
+  {
+    "word": "lightning",
+    "hint": "A flash of electricity during a storm",
+    "extraHint": "Often followed by thunder"
+  },
+  {
+    "word": "zookeeper",
+    "hint": "A person who cares for animals in a zoo",
+    "extraHint": "Feeds and cleans animals"
+  },
+  {
+    "word": "calculator",
+    "hint": "A device used to perform mathematical operations",
+    "extraHint": "Has buttons for numbers and arithmetic symbols"
+  },
+  {
+    "word": "snowflake",
+    "hint": "A single piece of frozen water crystal",
+    "extraHint": "No two are exactly alike"
+  },
+  {
+    "word": "supernova",
+    "hint": "An explosion of a massive star",
+    "extraHint": "Results in an extremely bright celestial event"
+  },
+  {
+    "word": "puzzle",
+    "hint": "A game or problem designed to test ingenuity",
+    "extraHint": "Can be jigsaw, crossword, or logic-based"
+  },
+  {
+    "word": "octopus",
+    "hint": "A sea creature with eight arms",
+    "extraHint": "Known for its intelligence and ability to escape"
+  },
+  {
+    "word": "thermos",
+    "hint": "A container that keeps liquids hot or cold",
+    "extraHint": "Used to carry coffee or soup"
+  },
+  {
+    "word": "compass",
+    "hint": "An instrument used for navigation",
+    "extraHint": "Points towards magnetic north"
+  },
+  {
+    "word": "parachute",
+    "hint": "Used to slow descent from high altitudes",
+    "extraHint": "Deployed by skydivers"
+  },
+  {
+    "word": "stadium",
+    "hint": "A large structure for sports events",
+    "extraHint": "Can seat thousands of spectators"
+  },
+  {
+    "word": "ambulance",
+    "hint": "A vehicle used to transport patients",
+    "extraHint": "Has flashing lights and a siren"
+  },
+  {
+    "word": "saxophone",
+    "hint": "A musical instrument often used in jazz",
+    "extraHint": "Has a reed mouthpiece and metal body"
+  },
+  {
+    "word": "fossil",
+    "hint": "The remains of an ancient organism preserved in rock",
+    "extraHint": "Used to study extinct species"
+  },
+  {
+    "word": "pomegranate",
+    "hint": "A fruit with many seeds inside",
+    "extraHint": "Known for its red, juicy seeds"
+  },
+  {
+    "word": "caterpillar",
+    "hint": "The larval stage of a butterfly",
+    "extraHint": "Feeds on leaves before becoming a chrysalis"
+  },
+  {
+    "word": "escalator",
+    "hint": "A moving staircase",
+    "extraHint": "Used in malls and airports"
+  },
+  {
+    "word": "armadillo",
+    "hint": "A mammal with a protective shell",
+    "extraHint": "Rolls into a ball for defense"
+  },
+  {
+    "word": "windmill",
+    "hint": "A structure that converts wind into energy",
+    "extraHint": "Has blades that spin in the wind"
+  },
+  {
+    "word": "passport",
+    "hint": "A document used for international travel",
+    "extraHint": "Issued by a government to its citizens"
+  },
+  {
+    "word": "chocolate",
+    "hint": "A sweet treat made from cocoa beans",
+    "extraHint": "Often used in desserts"
+  },
+  {
+    "word": "semaphore",
+    "hint": "A signaling system using flags",
+    "extraHint": "Used in maritime communication"
+  },
+  {
+    "word": "xylophone",
+    "hint": "A musical instrument with wooden bars",
+    "extraHint": "Played by striking the bars with mallets"
+  },
+  {
+    "word": "paradox",
+    "hint": "A statement that contradicts itself",
+    "extraHint": "Challenges logical thinking"
+  },
+  {
+    "word": "origami",
+    "hint": "The art of paper folding",
+    "extraHint": "Often results in intricate shapes like cranes"
+  },
+  {
+    "word": "bonsai",
+    "hint": "The art of growing miniature trees",
+    "extraHint": "Originates from Japan"
+  },
+  {
+    "word": "sandcastle",
+    "hint": "A structure built from sand at the beach",
+    "extraHint": "Often decorated with shells"
+  },
+  {
+    "word": "dragonfly",
+    "hint": "An insect with large wings and a long body",
+    "extraHint": "Known for its agility in flight"
+  },
+  {
+    "word": "crater",
+    "hint": "A large, bowl-shaped cavity on the surface of a planet or moon",
+    "extraHint": "Often caused by a meteorite impact"
+  },
+  {
+    "word": "labyrinth",
+    "hint": "A complex network of paths",
+    "extraHint": "Often difficult to navigate"
+  },
+  {
+    "word": "sundial",
+    "hint": "An ancient device used to tell time",
+    "extraHint": "Uses the position of the sun's shadow"
+  },
+  {
+    "word": "thermometer",
+    "hint": "Used to measure temperature",
+    "extraHint": "Can be digital or mercury-based"
+  },
+  {
+    "word": "sphinx",
+    "hint": "A mythological creature with the body of a lion and the head of a human",
+    "extraHint": "Famous statue in Egypt"
+  },
+  {
+    "word": "cocoon",
+    "hint": "A protective casing spun by some insects",
+    "extraHint": "Stage before a butterfly emerges"
+  },
+  {
+    "word": "gondola",
+    "hint": "A narrow boat used in the canals of Venice",
+    "extraHint": "Propelled by a person with a long pole"
+  },
+  {
+    "word": "invisible",
+    "hint": "Cannot be seen with the naked eye",
+    "extraHint": "Often associated with things like air"
+  },
+  {
+    "word": "mushroom",
+    "hint": "A type of fungus with a cap and stem",
+    "extraHint": "Some varieties are edible"
+  },
+  {
+    "word": "spectrum",
+    "hint": "A range of colors produced when light passes through a prism",
+    "extraHint": "Visible in rainbows"
+  },
+  {
+    "word": "hotairballoon",
+    "hint": "A large balloon that rises by heating air",
+    "extraHint": "Used for leisure rides in the sky"
+  },
+  {
+    "word": "barometer",
+    "hint": "An instrument for measuring atmospheric pressure",
+    "extraHint": "Useful for predicting weather"
+  },
+  {
+    "word": "tornado",
+    "hint": "A destructive vortex of rotating winds",
+    "extraHint": "Appears as a funnel-shaped cloud"
+  },
+  {
+    "word": "microchip",
+    "hint": "A small semiconductor used in electronics",
+    "extraHint": "Essential component in modern computers"
+  },
+  {
+    "word": "fountain",
+    "hint": "A structure that shoots water into the air",
+    "extraHint": "Often found in parks and city squares"
+  },
+  {
+    "word": "anaconda",
+    "hint": "A large, non-venomous snake",
+    "extraHint": "Lives in South America and is one of the largest snakes in the world"
+  },
+  {
+    "word": "microscope",
+    "hint": "An instrument used to see small objects",
+    "extraHint": "Used in laboratories to view cells"
+  },
+  {
+    "word": "windchime",
+    "hint": "A hanging decoration that makes sound when blown by wind",
+    "extraHint": "Often used for soothing sounds"
+  },
+  {
+    "word": "tangerine",
+    "hint": "A small, orange citrus fruit",
+    "extraHint": "Similar to an orange, but smaller and sweeter"
+  },
+  {
+    "word": "boomerang",
+    "hint": "A tool that returns to the thrower",
+    "extraHint": "Often used in traditional Australian hunting"
+  },
+  {
+    "word": "symphony",
+    "hint": "A large musical composition for orchestra",
+    "extraHint": "Typically divided into movements"
+  },
+  {
+    "word": "volcano",
+    "hint": "A mountain that erupts with molten rock",
+    "extraHint": "Located where tectonic plates meet"
+  },
+  {
+    "word": "coralreef",
+    "hint": "An underwater ecosystem made of coral",
+    "extraHint": "Found in warm, shallow ocean waters"
+  },
+  {
+    "word": "tapestry",
+    "hint": "A large woven wall hanging",
+    "extraHint": "Often depicts scenes or patterns"
+  },
+  {
+    "word": "stethoscope",
+    "hint": "Used to listen to the sounds inside the body",
+    "extraHint": "Commonly associated with doctors"
+  },
+  {
+    "word": "kaleidoscope",
+    "hint": "A tube containing mirrors and colored pieces that reflect patterns",
+    "extraHint": "Creates ever-changing designs when turned"
+  },
+  {
+    "word": "carnivore",
+    "hint": "An animal that primarily eats meat",
+    "extraHint": "Examples include lions and sharks"
+  },
+  {
+    "word": "juggler",
+    "hint": "A performer who tosses multiple objects in the air",
+    "extraHint": "Often seen at circuses or street performances"
+  },
+  {
+    "word": "bonsai",
+    "hint": "A miniature tree grown in a pot",
+    "extraHint": "An art form that originates from Japan"
+  },
+  {
+    "word": "tundra",
+    "hint": "A cold, treeless biome with frozen soil",
+    "extraHint": "Found in the Arctic and Antarctic regions"
+  },
+  {
+    "word": "constellation",
+    "hint": "A group of stars forming a recognizable pattern",
+    "extraHint": "Examples include Orion and Ursa Major"
+  },
+  {
+    "word": "zephyr",
+    "hint": "A soft, gentle breeze",
+    "extraHint": "Often used in poetry to describe pleasant wind"
+  },
+  {
+    "word": "alchemy",
+    "hint": "An ancient practice of transforming matter",
+    "extraHint": "A precursor to modern chemistry"
+  },
+  {
+    "word": "honeycomb",
+    "hint": "A structure of hexagonal cells built by bees",
+    "extraHint": "Houses honey and larvae"
+  },
+  {
+    "word": "hibiscus",
+    "hint": "A tropical flower with large, colorful petals",
+    "extraHint": "Often used to make herbal tea"
+  },
+  {
+    "word": "saber",
+    "hint": "A type of curved sword",
+    "extraHint": "Often used in fencing and cavalry"
+  },
+  {
+    "word": "zeppelin",
+    "hint": "A large airship with a rigid frame",
+    "extraHint": "Used for passenger flights in the early 20th century"
+  },
+  {
+    "word": "topaz",
+    "hint": "A gemstone that comes in various colors",
+    "extraHint": "The November birthstone"
   }
-  
 ]
