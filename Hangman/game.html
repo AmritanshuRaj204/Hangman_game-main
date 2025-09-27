@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Hangman Game</title>
+</head>
+
+<body>
+   
+        <div id="heading">
+            <a href="index.html" style="text-decoration: none;"> <div id="hangman">Hangman</div></a>
+            <a href="index.html" style="text-decoration: none;"><div id="game">Game</div></a>
+            <div id="suggest_word_container">
+                <button id="suggest_word_button">+</button>
+            </div>
+        </div>
+    
+
+
+    <div id="sidebar" class="hidden">
+        <h2 style="color: orange; text-align: center; border: 2px solid orange; padding: 10px; border-radius: 5px; margin: 20px 0; display: inline-block; text-shadow: 
+        2px 2px 0 rgb(0, 0, 0),  
+        -2px -2px 0 rgb(0, 0, 0),
+        2px -2px 0 rgb(0, 0, 0),
+        -2px 2px 0 rgb(0, 0, 0);">
+            Suggest a New Word
+        </h2>
+        
+        <form id="suggest_word_form">
+            <label for="new_word">Word:</label>
+            <textarea id="new_word" spellcheck="false" rows="1" required></textarea>
+    
+            <label for="hint">Hint:</label>
+            <textarea id="hint" rows="1"  spellcheck="false" required></textarea>
+    
+            <label for="extra_hint">Extra Hint:</label>
+            <textarea id="extra_hint" rows="1"  spellcheck="false" required></textarea>
+    
+            <button type="submit" style="background-color: orange; color: rgb(0, 0, 0); font-weight: bold;">Submit</button>
+            <button type="button" style="background-color: orange; color: rgb(0, 0, 0); font-weight:600" id="close_sidebar">Close</button>
+        </form>
+        
+    </div>
+    
+
+    <div class="container flex">
+        <div class="left_side">
+            <div class="gallows">
+                <div class="crossbarOne"></div>
+                <div class="floor"></div>
+                <div class="crossbar"></div>
+                <div class="post">
+                    <div class="deadguy head"></div>
+                    <div class="deadguy body">
+                        <div class="deadguy right-arm"></div>
+                        <div class="deadguy left-arm"></div>
+                        <div class="deadguy left-leg"></div>
+                        <div class="deadguy right-leg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="right_side">
+            <div id="start_game_button"><a id="eff"><span>Start Game</span><i></i></a></div>
+            <div id="hint_display">Hint: </div>
+            <button id="extra_hint_button">Get Extra Hint</button>
+            <button id="skip_button">Skip</button>
+            <div id="extra_hint_display"></div>
+            <div id="result_display"></div>
+            <div id="bg_res"><div id="word_display"></div></div><br>
+            <div id="keybord"></div>
+            <br>
+            <a id="eff" class="new_game" style="display: none; --color: red;"><span>New Game</span><i></i></a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

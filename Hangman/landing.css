@@ -1,0 +1,103 @@
+/* Landing page styles */
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("bg.jpg"); /* Adjust path accordingly */
+    background-size: cover; /* Ensures the background covers the screen */
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.landing-container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Slightly transparent background */
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    color: #ffcc00; /* Golden yellow text for Halloween effect */
+    font-size: 3em;
+    margin-bottom: 50px;
+}
+
+a {
+    --color: #ff6600;
+    position: relative;
+    background: #444;
+    color: #ffcc00;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    padding: 0.75rem 1.5rem;
+    transition: 0.5s;
+  }
+  
+  a:hover {
+    letter-spacing: 0.25rem;
+    background: var(--color);
+    color: var(--color);
+    box-shadow: 0 0 35px var(--color);
+  }
+  
+  a::before {
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: rgb(39, 40, 44);
+    
+   
+  }
+  
+  a span {
+    position: relative;
+    z-index: 1;
+  }
+  
+  a i {
+    position: absolute;
+    inset: 0;
+    display: block;
+  }
+  
+  a i::before {
+    content: '';
+    position: absolute;
+    top: -3.5px;
+    left: 80%;
+    width: 10px;
+    height: 5px;
+    border: 2px solid var(--color);
+    background: #27282c;
+    transform: translateX(-50%);
+    transition: 0.5s;
+  }
+  
+  a:hover i::before {
+    left: 20%;
+    width: 20px;
+  }
+  
+  a i::after {
+    content: '';
+    position: absolute;
+    bottom: -3.5px;
+    left: 20%;
+    width: 10px;
+    height: 5px;
+    border: 2px solid var(--color);
+    background: #27282c;
+    transform: translateX(-50%);
+    transition: 0.5s;
+  }
+  
+  a:hover i::after {
+    left: 80%;
+    width: 20px;
+  }

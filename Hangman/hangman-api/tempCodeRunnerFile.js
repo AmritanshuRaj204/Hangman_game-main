@@ -1,0 +1,1 @@
+const randomIndex = Math.floor(Math.random() * words.length);

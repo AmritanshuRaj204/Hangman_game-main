@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/api/word", "destination": "/hangman-api/server.js" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
