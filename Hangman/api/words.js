@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 function getWordsFromFile() {
-    const filePath = path.join(__dirname, 'words.json');
+    const filePath = path.join(__dirname, 'assets.json');
     if (!fs.existsSync(filePath)) {
         return [];
     }
@@ -10,7 +10,7 @@ function getWordsFromFile() {
 }
 
 function saveWordsToFile(words) {
-    fs.writeFileSync(path.join(__dirname, 'words.json'), JSON.stringify(words, null, 2), 'utf-8');
+    fs.writeFileSync(path.join(__dirname, 'assets.json'), JSON.stringify(words, null, 2), 'utf-8');
 }
 
 module.exports = (req, res) => {

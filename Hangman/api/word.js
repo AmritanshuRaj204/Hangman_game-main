@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 function getWordsFromFile() {
-    const filePath = path.join(__dirname, 'words.json');
+    const filePath = path.join(__dirname, 'assets.json');
     if (!fs.existsSync(filePath)) {
         return [];
     }
